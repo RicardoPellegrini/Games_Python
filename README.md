@@ -10,4 +10,4 @@ Esse projeto consta de diversas funções que trabalham para tratar possíveis e
 Foram feitos exemplos de jogos nesse notebook, demonstrando também o tratamento para cada entrada.
 
 ### 3) Jogo da Velha Inteligente (contra o computador):
-Nessa variação aprimorada do jogo da velha, o jogo é contra o computador, que possui um algoritmo para suas decisões, buscando sempre a vitória e impedindo que vençamos, quando possível
+Nessa variação aprimorada do jogo da velha, o jogo é contra o computador, que possui um algoritmo para suas decisões, buscando sempre a vitória e impedindo que vençamos, quando possível.
