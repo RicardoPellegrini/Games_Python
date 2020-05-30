@@ -1,5 +1,5 @@
 # Projects-Games_Python
-Esse repositório consta alguns de meus projetos/jogos criados utilizando a programação Python.
+Esse repositório contém alguns de meus projetos/jogos criados utilizando a programação Python.
 
 ### 1) Jogo da Forca:
 Nesse projeto, utilizo condicionais, loops e tratamento de erros e a biblioteca random para poder sortear uma palavra de uma lista (que poderia também ser uma lista gerada a partir de um arquivo qualquer).
